@@ -9,7 +9,9 @@ Best User Bot To Manage Your Telegram Account 😉
 ## By Team AVENGERS ⬛
 
 For any query or want to know how it works join 👇
-### <a href="https://t.me/FRIDAYSUPPORT"><img src="https://telegra.ph/file/9ac774b59c57b7b3a0c89.png?logo=Telegram"></a>
+### <a href="https://t.me/FRIDAYSUPPORT"><img src="https://telegra.ph/file/8ef5ff8acca6c6e4c7dd7.jpg?logo=Telegram"></a>
+
+## HOW TO DEPLOY 
 
 ## Installing Heroku 
 
@@ -18,7 +20,7 @@ For any query or want to know how it works join 👇
 
 ## GET STRING SESSION FROM REPL IT [TAP ON LOGO TO RUN ONLINE]
 
-# <a href="fridayuserbot.midhunkm1294bit.repl.run"><img src="https://telegra.ph/file/ba1e90db6956f4d7ce77d.png?logo=Repl it"></a>
+# <a href="fridayuserbot.midhunkm1294bit.repl.run"><img src="https://telegra.ph/file/ba1e90db6956f4d7ce77d.png?logo=Repl"></a>
 ### The Normal Way
 
 Simply clone the repository and run the main file:
