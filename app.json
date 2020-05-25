@@ -1,7 +1,7 @@
 {
-  "name": "IndianBot",
-  "description": "Userbot created by a IndianBhai and join https://t.me/IndianArMyGiveaway for any problems or support",
-  "logo": "https://telegra.ph/file/b6cd017959adc2814db5f.jpg",
+  "name": "FRIDAY",
+  "description": "Userbot created by a @Mariodevs and join https://t.me/fridaySupportOfficial for any problems or support",
+  "logo": "https://telegra.ph/file/399567fd5e92fdcd433ad.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/indianbhaiya/IndianBot/",
+  "repository": "https://github.com/midhunkm1294-bit/Friday/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -23,7 +23,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username.",
+      "description": "Fill your Full name or Username like @Mariodevs.",
       "value": ""
     },
     "APP_ID": {
@@ -43,7 +43,7 @@
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Get this value by running python3 telesetup.py locally",
+      "description": "Get this value from https://fridayuserbot.midhunkm1294bit.repl.run",
       "value": ""
     },
     "GITHUB_ACCESS_TOKEN": {
@@ -52,7 +52,7 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name Example: Total-Noob-69/X-Tra-Telegram, but GITHUB_ACCESS_TOKEN must be setup first.",
+      "description": "Your repo name Example: midhunkm1294/Friday, but GITHUB_ACCESS_TOKEN must be setup first.",
       "value": "",
       "required": false
     },
@@ -70,12 +70,12 @@
       "value": ""
     },
     "TG_BOT_TOKEN_BF_HER": {
-      "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot.Worth it. Get it.",
+      "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn of inline Mode on bot settings. Get it.",
       "value": ""
     },
     "SUDO_USERS": {
       "description": "Makes your acc and bot stable",
-      "value": "953414679",
+      "value": "813878981",
       "required": false
     },
     "CHROME_BIN": {
@@ -98,7 +98,7 @@
       "required": false
     },
     "TZ": {
-      "description": "Required for Correct Time on autopic",
+      "description": "Required for Correct Time for autopic get from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
       "value": "",
       "required": false
     }
