@@ -1,7 +1,7 @@
 # FRIDAY
 
 <p align="center">
-<img src="logo.jpeg" alt="FRIDAY">
+<img src="Logo.jpeg" alt="FRIDAY">
 
 Best User Bot To Manage Your Telegram Account 😉
 ## Most PowerFul And Better And Secure !
