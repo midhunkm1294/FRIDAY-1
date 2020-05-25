@@ -1,28 +1,27 @@
-# IndianBot The UserBot 🇮🇳
+# FRIDAY
 
 <p align="center">
-<img src="logo.jpg" alt="indian Bot">
+<img src="logo.jpeg" alt="FRIDAY">
 
 Best User Bot To Manage Your Telegram Account 😉
 ## Most PowerFul And Better And Secure !
 
-## By Team IndianBot 🇮🇳
+## By Team AVENGERS ⬛
 
-For any query or want to know how it works join 👉
-### <a href="https://t.me/indianbot_official"><img src="https://img.shields.io/badge/Telegram-Group-blue.svg?logo=Telegram"></a>
+For any query or want to know how it works join 👇
+### <a href="https://t.me/FRIDAYSUPPORT"><img src="https://img.shields.io/badge/Telegram-Group-blue.svg?logo=Telegram"></a>
 
 
-## FORK AT YOUR OWN RISK !
-### Installing Heroku 
+## Installing Heroku 
 
 ### The Easy Way
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/indianbhaiya/IndianBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/midhunkm1294-bit/friday)
 
 ### The Normal Way
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/indianbhaiya/IndianBot
+git clone https://github.com/midhunkm1294-bit/Friday
 cd Indianbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
