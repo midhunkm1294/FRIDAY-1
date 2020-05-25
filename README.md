@@ -20,7 +20,7 @@ For any query or want to know how it works join 👇
 
 ## GET STRING SESSION FROM REPL IT [TAP ON LOGO TO RUN ONLINE]
 
-# <a href="fridayuserbot.midhunkm1294bit.repl.run"><img src="https://telegra.ph/file/ba1e90db6956f4d7ce77d.png?logo=Repl"></a>
+# <a href="https://fridayuserbot.midhunkm1294bit.repl.run"><img src="https://telegra.ph/file/ba1e90db6956f4d7ce77d.png?logo=Repl"></a>
 ### The Normal Way
 
 Simply clone the repository and run the main file:
